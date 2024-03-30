@@ -1,5 +1,5 @@
-#Ejemplo RT MT3620
-##Uso de periféricos UART, GPIO y ADC con FreeRTOS
+# Ejemplo RT MT3620
+## Uso de periféricos UART, GPIO y ADC con FreeRTOS
 
 ### Descripción
 El código consiste en una demostración del uso de ADC, GPIO y UART usando los drivers de Mediatek junto al FreeRTOS.
