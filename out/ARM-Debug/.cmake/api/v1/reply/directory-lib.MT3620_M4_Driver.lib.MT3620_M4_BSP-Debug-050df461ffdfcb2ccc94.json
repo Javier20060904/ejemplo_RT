@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "lib/MT3620_M4_Driver/lib/MT3620_M4_BSP",
+		"source" : "MT3620_M4_BSP"
+	}
+}

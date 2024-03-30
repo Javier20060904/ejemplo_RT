@@ -1,0 +1,13 @@
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/CMakeFiles/FreeRTOS_RTcore_GPIO.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/CMakeFiles/MakeImage.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/lib/MT3620_M4_Driver/CMakeFiles/MT3620_M4_Driver.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/lib/MT3620_M4_Driver/CMakeFiles/edit_cache.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/lib/MT3620_M4_Driver/CMakeFiles/rebuild_cache.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/lib/MT3620_M4_Driver/lib/MT3620_M4_BSP/CMakeFiles/MT3620_M4_BSP.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/lib/MT3620_M4_Driver/lib/MT3620_M4_BSP/CMakeFiles/edit_cache.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/lib/MT3620_M4_Driver/lib/MT3620_M4_BSP/CMakeFiles/rebuild_cache.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/lib/MT3620_M4_Driver/MT3620_M4_BSP/FreeRTOS/CMakeFiles/MT3620_M4_FreeRTOS.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/lib/MT3620_M4_Driver/MT3620_M4_BSP/FreeRTOS/CMakeFiles/edit_cache.dir
+C:/Users/Virtual-PC/Desktop/ejemplo_RT/out/ARM-Debug/lib/MT3620_M4_Driver/MT3620_M4_BSP/FreeRTOS/CMakeFiles/rebuild_cache.dir
