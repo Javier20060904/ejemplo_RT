@@ -9,7 +9,7 @@
 cmake_minimum_required(VERSION 3.20)
 
 # Configurations
-project(FreeRTOS_RTcore_GPIO C)
+project(FreeRTOS_RTApp_GPIO_ADC C)
 
 add_compile_definitions(OSAI_FREERTOS)
 add_compile_definitions(OSAI_ENABLE_DMA)
